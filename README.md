@@ -1,1 +1,1 @@
-# clim-var-downscaling-nflows
+# Climate Variable Downscalin with Conditioned Normalizing Flows
